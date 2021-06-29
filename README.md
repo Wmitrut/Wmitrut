@@ -1,4 +1,4 @@
-### Just JSying <a href="https://blog.wmitrut.co/"><img src="https://media.giphy.com/media/CaGBRRRV7kT70wnEzr/giphy.gif " width="35px"></a>
+### Just JSying <a href="https://blog.wmitrut.co/">🤘</a>
 
 This is the place where I opensource stuff and break things :rofl:
 
