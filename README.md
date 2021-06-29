@@ -8,3 +8,4 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: <a rel="me" href="mailto:wellingtonmitrut@gmail.com">mail</a>
 - ⚡ Fun fact: I :heart: :cat:s
 - 🚦 My freelancing status is: Just accepting consultant jobs 🟡
+- `npx wmitrut`
