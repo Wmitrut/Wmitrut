@@ -7,5 +7,5 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Javascript/Typescript or React/Express
 - 📫 How to reach me: <a rel="me" href="mailto:wellingtonmitrut@gmail.com">mail</a>
 - ⚡ Fun fact: I :heart: :cat:s
-- 🚦 My freelancing status is: Fully booked till April/2022 🔴
+- 🚦 My freelancing status is: Fully booked till End of January/2022 🔴
 - `npx wmitrut`
